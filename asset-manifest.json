@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/adeyemipelumi/weather-app/static/css/main.faceb194.css",
+    "main.js": "/adeyemipelumi/weather-app/static/js/main.b75b4f63.js",
+    "static/media/sunset.jpg": "/adeyemipelumi/weather-app/static/media/sunset.ab19eb6fc568e5c0ff4d.jpg",
+    "index.html": "/adeyemipelumi/weather-app/index.html",
+    "main.faceb194.css.map": "/adeyemipelumi/weather-app/static/css/main.faceb194.css.map",
+    "main.b75b4f63.js.map": "/adeyemipelumi/weather-app/static/js/main.b75b4f63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faceb194.css",
+    "static/js/main.b75b4f63.js"
+  ]
+}
